@@ -1,6 +1,7 @@
 # next-js-project
 
 Git Steps:
+
 ```
 git add README.md
 git commit -m "first commit"
